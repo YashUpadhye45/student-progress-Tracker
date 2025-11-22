@@ -27,7 +27,7 @@ for i in range(d):
 
 
 
-#  Calculations करा
+#  Calculations
 
 total = 0
 highest = 0
@@ -87,3 +87,4 @@ match question:
 
     case _:
         print("Invalid Input")
+
